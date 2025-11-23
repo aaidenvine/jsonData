@@ -1,6 +1,6 @@
 [
-    {"id": 101, "text": "This is a remote data test"},
-    {"id": 102, "text": "More test data here"},
-    {"id": 103, "text": "This is a checklist thing here"},
-    {"id": 104, "text": "blah blah blah"}
+    {"id": 101, "text": "This is a remote data test", location: "Forest behind my friends house", capacity: 2},
+    {"id": 102, "text": "More test data here", location: "Test House", capacity: 100},
+    {"id": 103, "text": "This is a checklist thing here", location: "Text Store", capacity: 100},
+    {"id": 104, "text": "blah blah blah", location: "Somewhere", capacity: 100}
 ]
