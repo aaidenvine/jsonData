@@ -22,5 +22,13 @@
     "location": "Ourimbah",
     "capacity": 1,
     "description": "Shaun is a good teacher"
+  },
+  {
+    "id": 4, 
+    "title": "Chess and Other Games",
+    "date": "2025-12-01",
+    "location": "Mid North Coast",
+    "capacity": 10, 
+    "description": "We'll play some games, check tthe brains"
   }
 ]
