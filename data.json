@@ -1,34 +1,42 @@
 [
   {
     "id": 1,
-    "title": "TeSTETERASJJDJAD",
+    "title": "BasketBall",
     "date": "2025-11-24",
-    "location": "Location1",
+    "location": "Basket Ball Courts, 12 Basketball Avenue",
     "capacity": 20,
-    "description": "This Description should show"
+    "description": "Basketball is a great game to play with family, friends and even foe (although we do not condone this, arguements can be settled over a game of B-Ball.)"
   },
   {
     "id": 2,
-    "title": "IM GOING TO FREAK OUT",
+    "title": "Swimming",
     "date": "2025-11-25",
-    "location": "NEED A RITALIN",
-    "capacity": 1,
-    "description": "give me freedom"
+    "location": "Olympic Swimming Pool",
+    "capacity": 12,
+    "description": "With some professional teachers giving lessons in groups of 12, this activity can help strengthen your cardiovascular, muscular, respiratory and swimming skills!"
   },
   {
     "id": 3,
-    "title": "Hi Shaun if you see this",
+    "title": "Chess",
     "date": "2025-12-05",
     "location": "Ourimbah",
-    "capacity": 1,
-    "description": "Shaun is a good teacher"
+    "capacity": 20,
+    "description": "Chess is a timeless, amazing game that has been involved with kings, philosophers, casuals and professionals alike. Bend your brain-power with this all-time favourite board game!"
   },
   {
     "id": 4, 
-    "title": "Chess and Other Games",
+    "title": "Volley Ball",
     "date": "2025-12-01",
-    "location": "Mid North Coast",
+    "location": "Bondi Beach",
     "capacity": 10, 
-    "description": "We'll play some games, check tthe brains"
+    "description": "Fun activites at the beach with friends."
+  }
+  {
+    "id": 5, 
+    "title": "Trampolining",
+    "date": "2025-12-12",
+    "location": "Gymnasium",
+    "capacity": 10, 
+    "description": "Get your bounce on with some fun activites at our gymnasium! "
   }
 ]
