@@ -38,5 +38,85 @@
     "location": "Gymnasium",
     "capacity": 10, 
     "description": "Get your bounce on with some fun activites at our gymnasium! "
-  }
+  },
+  {
+"id": 6,
+"title": "Art Workshop",
+"date": "2025-12-15",
+"location": "Community Art Center",
+"capacity": 15,
+"description": "Explore your creative side with painting and drawing sessions guided by local artists."
+},
+{
+"id": 7,
+"title": "Hiking Adventure",
+"date": "2025-12-20",
+"location": "National Park Trails",
+"capacity": 25,
+"description": "Join a guided hike through scenic trails, suitable for all fitness levels. Bring water and sturdy shoes."
+},
+{
+"id": 8,
+"title": "Cooking Class",
+"date": "2025-12-22",
+"location": "Local Kitchen Studio",
+"capacity": 10,
+"description": "Learn to prepare healthy meals with fresh ingredients. Includes tasting session at the end."
+},
+{
+"id": 9,
+"title": "Book Club Meeting",
+"date": "2025-12-25",
+"location": "Public Library",
+"capacity": 20,
+"description": "Discuss the latest bestseller with fellow readers. New members welcome!"
+},
+{
+"id": 10,
+"title": "Yoga Retreat",
+"date": "2025-12-28",
+"location": "Wellness Center",
+"capacity": 30,
+"description": "A full-day retreat focusing on mindfulness, yoga poses, and relaxation techniques."
+},
+{
+"id": 11,
+"title": "Music Concert",
+"date": "2026-01-05",
+"location": "Outdoor Amphitheater",
+"capacity": 50,
+"description": "Enjoy live performances from local bands. Bring blankets for seating."
+},
+{
+"id": 12,
+"title": "Photography Walk",
+"date": "2026-01-10",
+"location": "City Park",
+"capacity": 15,
+"description": "Capture stunning photos while learning tips from professional photographers."
+},
+{
+"id": 13,
+"title": "Dance Class",
+"date": "2026-01-15",
+"location": "Dance Studio",
+"capacity": 20,
+"description": "Learn salsa dancing basics in a fun, energetic environment."
+},
+{
+"id": 14,
+"title": "Gardening Workshop",
+"date": "2026-01-20",
+"location": "Botanical Gardens",
+"capacity": 25,
+"description": "Hands-on session on sustainable gardening practices."
+},
+{
+"id": 15,
+"title": "Film Screening",
+"date": "2026-01-25",
+"location": "Community Theater",
+"capacity": 40,
+"description": "Watch and discuss independent films with like-minded enthusiasts."
+}
 ]
